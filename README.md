@@ -8,11 +8,13 @@ By following this [link](https://github.com/irinade/Internship_Report_L3_Underst
 Following this internship, I gave a talk at [SICB 2021](http://burkclients.com/sicb/meetings/2021/site/index.html) international conference cycle. You can find my talk [here]( https://www.youtube.com/watch?v=Pc85poM5rC0), (sorry for the quality).
 You can also have access to the weekly blog I kept during the internsip following [this](https://projects.cri-paris.org/projects/vXCBp29N/summary) link.
 
-Prior to this internship I worked 3 weeks with a pear on a project proposed by Pauline Provini, creating the foundations for my internship. You can find the work we did (programs, research and blogs) [here](https://github.com/irinade/Fellows_Project).
+Prior to this internship I worked 3 weeks with a peer on a project proposed by Pauline Provini, creating the foundations for my internship. You can find the work we did (programs, research and blogs) [here](https://github.com/irinade/Fellows_Project).
 
 ### 2. Study of the cerebellum development in snakes, with Richard Wingate at Kings' College London
 [Here](https://github.com/irinade/Intership-Report-at-King-s-College-London/blob/master/Internship%20Report%20Irina%20Delamare%20at%20KCL%20_%20Study%20of%20cerebellum%20development%20in%20snakes.pdf) you will find my report of the intership I made on summer 2019 at King's College London in the Developmental Neurobiology Department. My supervisor was Dr. Wingate. I studied snakes cerebellum, and their Purkinje cells ordering. I followed 3 different kinds of staining protocols : Nissl stain, Immunohistochemistry, and Golgi stain. 
 
+### 3. 1 week internship report, with Marc Eleaume at MNHN
+[Here](https://github.com/irinade/Internship-report-MNHN-2018/blob/master/Internship%20Report%20Irina%20Delamare%20Asteroids%20MNHN%202018.pdf) is an internship report I wrote for a voluntary internship in HighSchool. 
 
 ## Dissertation Reviews:
 ### 1. Principles of animal forms and functions
@@ -34,6 +36,9 @@ This work describe the reasons given to justify the experiments made on monkeys.
 ### 6. Interaction between visitors and animals in a zoo 
 [This](https://github.com/irinade/Compte-rendu-de-la-sortie-la-M-nagerie-du-Jardin-des-Plantes/blob/master/Compte-rendu%20Jardin%20des%20Plantes.pdf) is the study of the interaction between visitors and animals in La Ménagerie du Jardin des Plantes zoo for a Human's and Social's Sciences courses. (written in french!!)
 It was made in collaboration with two classmates.
+
+### 7. TPE de Premiere "Genèse de la Vie sur Terre"
+[Here](https://github.com/irinade/TPE-de-Premiere/blob/master/Gen%C3%A8se%20de%20la%20vie%20sur%20Terre.pdf) is a work I did in collaboration with 2 peers in second year of highschool. It is written in french!!
 
 
 ## Computing experiences:
@@ -59,3 +64,5 @@ Prime-number-calculator_1 iterates a list of non-primes numbers, a list of all n
 Prime-number-calculator_2 define a function that tells if a given number is a prime number. Then it creates a list of all prime numbers in a range of 2 to a maximum value that you input, defining with the function if each number is prime or not.
 Prime-number-calculator_3 iterates a list of primes numbers starting by 2, and divide any numbers by this list. It also uses the time function to have an estimation of how quick the program is.
 
+### 6. Random assignment generator
+[This](https://github.com/irinade/Projet_Bio) program randomly assigns peoples names, from the #students list in the #students_list.py file, to a number (here 12, but this is just for the example). This number corresponds to an exercise that I have in my Biology class. So this program randomly assigns an exercise to my classmates.
