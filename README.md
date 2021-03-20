@@ -33,7 +33,7 @@ The assignment was to find an application to create and use differential equatio
 We used multiples library including matplotlib and numpy in order to use differential equations and plot our results.
 
 ### 3. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI
-During this internship I worked in Rstudio to gather sound from the web, extract data from those sounds (like the amplitude and frequency), analyse those data and make principal componenent analysis to compare those data to other variables such as birds' phylogeny, birds' size, and birds' nocturnality. 
+During this [internship](https://github.com/irinade/Internship_Report_L3_Understand-the-mechanisms-by-which-birds-produce-vocalizations_GitHub_page/tree/master/CodeR) I worked in Rstudio to gather sound from the web, extract data from those sounds (like the amplitude and frequency), analyse those data and make principal componenent analysis to compare those data to other variables such as birds' phylogeny, birds' size, and birds' nocturnality. 
 I used multiples library such as soundgen, tuneR, here, dplyr, ggbiplot, ggtree, or phytools. 
 
 
