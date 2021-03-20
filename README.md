@@ -24,11 +24,16 @@ Prior to this internship I worked 3 weeks with a pear on a project proposed by P
 
 ## Computing experiences:
 ### 1. Reanalizing data and learning about reproductibility
-This 3 weeks project intended to give student an idea of the importance of reproductibility in science by making groups of 4 students reanalyse data from a published paper. [Here](https://github.com/irinade/AJA_Project) you will find the GitHub page with the program I wrote in collaboration with 3 other classmates. I am not allowed to share our results and analysis, and the files needed to run the program (sorry) as I am not allowed to share it publicly (not my intelectual propriety). But yoou can still find the programming I worked on.
+This 3 weeks project intended to give student an idea of the importance of reproductibility in science by making groups of 4 students reanalyse data from a published paper. [Here](https://github.com/irinade/AJA_Project) you will find the GitHub page with the program I wrote in collaboration with 3 other classmates in R language. I am not allowed to share our results, analysis, and the files needed to run the program (sorry) as it is not my intelectual propriety. But you can still find the programming I worked on where we rearanged the data, made statistical analysis and use linear regressions.
+We used multiples library including tidyverse and ggplot2.
 
 ### 2. Impact of Bison reintroduction in Siberia
-[Here](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia) is a simulation 2 classmates and I created during a 1 week project. Our worked foccus of finding the optimal density of American bison to reintroduce in Siberia to slow down the thawing of the permafrost by trampling of the snow.
-The assignment was to find an application to create and use differential equations and define a relationship between a physical quantity (the functions, here the density of bisons to reintroduce) and their rates of change (the derivatives, here the thawing of the permafrost).
+[Here](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia) is a simulation 2 classmates and I created during a 1 week project in python programing language. Our worked foccus of finding the optimal density of American bison to reintroduce in Siberia to slow down the thawing of the permafrost by trampling of the snow.
+The assignment was to find an application to create and use differential equations and define a relationship between a physical quantity (the functions, here the density of bisons to reintroduce) and their rates of change (the derivatives, here the thawing of the permafrost). We also made a [poster](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia/blob/master/Impact%20of%20Bison%20reintroduction%20in%20Siberia.pdf) to present our work and a [paper](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia/blob/master/Rapport%20final.pdf) summing up our findings.
+We used multiples library including matplotlib and numpy in order to use differential equations and plot our results.
 
+### 3. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI
+During this internship I worked in Rstudio to gather sound from the web, extract data from those sounds (like the amplitude and frequency), analyse those data and make principal componenent analysis to compare those data to other variables such as birds' phylogeny, birds' size, and birds' nocturnality. 
+I used multiples library such as soundgen, tuneR, here, dplyr, ggbiplot, ggtree, or phytools. 
 
 
