@@ -1,4 +1,4 @@
-# SUM UP of my work and expeiences
+# SUM UP of my work and experiences
 Here you will be able to find a sum up of all my work, grouped by internship reports, dissertation reviews, and computing experiencies !
 Enjoy!!
 
