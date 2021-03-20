@@ -13,7 +13,7 @@ Prior to this internship I worked 3 weeks with a peer on a project proposed by P
 ### 2. Study of the cerebellum development in snakes, with Richard Wingate at Kings' College London
 [Here](https://github.com/irinade/Intership-Report-at-King-s-College-London/blob/master/Internship%20Report%20Irina%20Delamare%20at%20KCL%20_%20Study%20of%20cerebellum%20development%20in%20snakes.pdf) you will find my report of the intership I made on summer 2019 at King's College London in the Developmental Neurobiology Department. My supervisor was Dr. Wingate. I studied snakes cerebellum, and their Purkinje cells ordering. I followed 3 different kinds of staining protocols : Nissl stain, Immunohistochemistry, and Golgi stain. 
 
-### 3. 1 week internship report, with Marc Eleaume at MNHN
+### 3. One week internship report, with Marc Eleaume at MNHN
 [Here](https://github.com/irinade/Internship-report-MNHN-2018/blob/master/Internship%20Report%20Irina%20Delamare%20Asteroids%20MNHN%202018.pdf) is an internship report I wrote for a voluntary internship in HighSchool. 
 
 ## Dissertation Reviews:
