@@ -11,6 +11,8 @@ You can also have access to the weekly blog I kept during the internsip followin
 ### 2. 
 
 ## Dissertation Reviews
+### 1. A little guide to COVID-19
+[Here](https://github.com/irinade/Coronavirus_a_little_guide/blob/master/Partiel%20Bio%202020%20Irina%20Delamare.pdf) is a work I did during the first French lockdown for my biology class. The assignement was to write 
 
 
 ## Computing experiences
