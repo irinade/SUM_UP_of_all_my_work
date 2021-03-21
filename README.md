@@ -1,6 +1,8 @@
 # SUM UP of my work and experiences
 Here you will be able to find a sum up of all my work, grouped by internship reports, dissertation reviews, and computing experiencies !
 
+You can also find my CV [here]()
+
 
 ## Internship Reports:
 ### 1. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI
