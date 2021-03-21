@@ -1,6 +1,6 @@
 # SUM UP of my work and experiences
 Here you will be able to find a sum up of all my work, grouped by internship reports, dissertation reviews, and computing experiencies !
-Enjoy!!
+
 
 ## Internship Reports:
 ### 1. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI
@@ -14,7 +14,7 @@ Prior to this internship I worked 3 weeks with a peer on a project proposed by P
 [Here](https://github.com/irinade/Intership-Report-at-King-s-College-London/blob/master/Internship%20Report%20Irina%20Delamare%20at%20KCL%20_%20Study%20of%20cerebellum%20development%20in%20snakes.pdf) you will find my report of the intership I made on summer 2019 at King's College London in the Developmental Neurobiology Department. My supervisor was Dr. Wingate. I studied snakes cerebellum, and their Purkinje cells ordering. I followed 3 different kinds of staining protocols : Nissl stain, Immunohistochemistry, and Golgi stain. 
 
 ### 3. One week internship report, with Marc Eleaume at MNHN
-[Here](https://github.com/irinade/Internship-report-MNHN-2018/blob/master/Internship%20Report%20Irina%20Delamare%20Asteroids%20MNHN%202018.pdf) is an internship report I wrote for a voluntary internship in HighSchool. 
+[Here](https://github.com/irinade/Internship-report-MNHN-2018/blob/master/Internship%20Report%20Irina%20Delamare%20Asteroids%20MNHN%202018.pdf) is an internship report I wrote for a voluntary internship in HighSchool. It was my first of 2 internship with him at the MNHN where I worked on taking pictures of echinodermes for the ATLAS CEAMARC Dr. Eleaume is working on.
 
 ## Dissertation Reviews:
 ### 1. Principles of animal forms and functions
@@ -34,11 +34,11 @@ This work describe the reasons given to justify the experiments made on monkeys.
 [This](https://github.com/irinade/Practical-Work-Thesis-Immunology-and-Genetics/blob/master/Thesis%20%20Imunology%20and%20Genetics.pdf) is a recap of a 1 week laboratory work on an autoimmune disease I did during my first year. This work is about quantitative genetics and explain the localization of a gene using positional cloning. It is a study of a human autoimmune pathology using rats as an experimental model. It was written in collaboration with one of my classmate.
 
 ### 6. Interaction between visitors and animals in a zoo 
-[This](https://github.com/irinade/Compte-rendu-de-la-sortie-la-M-nagerie-du-Jardin-des-Plantes/blob/master/Compte-rendu%20Jardin%20des%20Plantes.pdf) is the study of the interaction between visitors and animals in La Ménagerie du Jardin des Plantes zoo for a Human's and Social's Sciences courses. (written in french!!)
+[This](https://github.com/irinade/Compte-rendu-de-la-sortie-la-M-nagerie-du-Jardin-des-Plantes/blob/master/Compte-rendu%20Jardin%20des%20Plantes.pdf) is the study of the interaction between visitors and animals in La Ménagerie du Jardin des Plantes zoo for a Human's and Social's Sciences courses. (written in french)
 It was made in collaboration with two classmates.
 
 ### 7. TPE de Premiere "Genèse de la Vie sur Terre"
-[Here](https://github.com/irinade/TPE-de-Premiere/blob/master/Gen%C3%A8se%20de%20la%20vie%20sur%20Terre.pdf) is a work I did in collaboration with 2 peers in second year of highschool. It is written in french!!
+[Here](https://github.com/irinade/TPE-de-Premiere/blob/master/Gen%C3%A8se%20de%20la%20vie%20sur%20Terre.pdf) is a work I did in collaboration with 2 peers in second year of highschool. It is written in french.
 
 
 ## Computing experiences:
