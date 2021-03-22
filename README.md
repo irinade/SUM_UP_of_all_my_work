@@ -44,6 +44,10 @@ It was made in collaboration with two classmates.
 
 
 ## Computing experiences:
+### 1. Molecular Dynamic
+[This](https://github.com/irinade/Molecular-Dynamic-Project) project was part of a semester course that aim at creating a dynamic modele of particules. You will find here the final itteration of the program and the resulting files. The simulation spawn particules at random positions and generates energetic forces that drives them, leading to a complex and dynamic 3D model of particules evolution.
+During the same teaching unit, my class was [assigned](https://github.com/irinade/Stochastic-model) some exercises on stochastic model and DNA sequence manipulations in order to get back into the swing of things.
+
 ### 1. Reanalizing data and learning about reproductibility, in R
 This 3 weeks project intended to give student an idea of the importance of reproductibility in science by making groups of 4 students reanalyse data from a published paper. [Here](https://github.com/irinade/AJA_Project) you will find the GitHub page with the program I wrote in collaboration with 3 other classmates in R language. I am not allowed to share our results, analysis, and the files needed to run the program (sorry) as it is not my intelectual propriety. But you can still find the programming I worked on where we rearanged the data, made statistical analysis and use linear regressions.
 We used multiples library including tidyverse and ggplot2.
