@@ -48,27 +48,27 @@ It was made in collaboration with two classmates.
 [This](https://github.com/irinade/Molecular-Dynamic-Project) project was part of a semester course that aim at creating a dynamic modele of particules. You will find here the final itteration of the program and the resulting files. The simulation spawn particules at random positions and generates energetic forces that drives them, leading to a complex and dynamic 3D model of particules evolution.
 During the same teaching unit, my class was [assigned](https://github.com/irinade/Stochastic-model) some exercises on stochastic model and DNA sequence manipulations in order to get back into the swing of things.
 
-### 1. Reanalizing data and learning about reproductibility, in R
+### 2. Reanalizing data and learning about reproductibility, in R
 This 3 weeks project intended to give student an idea of the importance of reproductibility in science by making groups of 4 students reanalyse data from a published paper. [Here](https://github.com/irinade/AJA_Project) you will find the GitHub page with the program I wrote in collaboration with 3 other classmates in R language. I am not allowed to share our results, analysis, and the files needed to run the program (sorry) as it is not my intelectual propriety. But you can still find the programming I worked on where we rearanged the data, made statistical analysis and use linear regressions.
 We used multiples library including tidyverse and ggplot2.
 
-### 2. Impact of Bison reintroduction in Siberia, in Python
+### 3. Impact of Bison reintroduction in Siberia, in Python
 [Here](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia) is a simulation 2 classmates and I created during a 1 week project in python programing language. Our worked foccus of finding the optimal density of American bison to reintroduce in Siberia to slow down the thawing of the permafrost by trampling of the snow.
 The assignment was to find an application to create and use differential equations and define a relationship between a physical quantity (the functions, here the density of bisons to reintroduce) and their rates of change (the derivatives, here the thawing of the permafrost). We also made a [poster](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia/blob/master/Impact%20of%20Bison%20reintroduction%20in%20Siberia.pdf) to present our work and a [paper](https://github.com/irinade/Impact-of-Bison-reintroduction-in-Siberia/blob/master/Rapport%20final.pdf) summing up our findings.
 We used multiples library including matplotlib and numpy in order to use differential equations and plot our results.
 
-### 3. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI, in R
+### 4. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI, in R
 During this [internship](https://github.com/irinade/Internship_Report_L3_Understand-the-mechanisms-by-which-birds-produce-vocalizations_GitHub_page/tree/master/CodeR) I worked in Rstudio to gather sound from the web, extract data from those sounds (like the amplitude and frequency), analyse those data and make principal componenent analysis to compare those data to other variables such as birds' phylogeny, birds' size, and birds' nocturnality. 
 I used multiples library such as soundgen, tuneR, here, dplyr, ggbiplot, ggtree, or phytools. 
 
-### 4. Rosalind exercises, in Python
+### 5. Rosalind exercises, in Python
 [Here](https://github.com/irinade/Rosalind) and [here](https://github.com/irinade/Python_BioInfo_ProjectS) are my try at begining tackling [Rosalind](http://rosalind.info/problems/locations/) programing problems either for my informatic class in L1 or just for the fun.
  
-### 5. Prime number calculator, in Python
+### 6. Prime number calculator, in Python
 [These](https://github.com/irinade/Prime-number-calculator) are 3 prime numbers calculators that I pgrogramed that will print a list of every prime number from 2 to a maximum value that you input. Each of this program brings a new and inovative way to resolve the problem!
 Prime-number-calculator_1 iterates a list of non-primes numbers, a list of all numbers from 2 to a maximum value that you input, and it creates a list of prime numbers by doing the difference between the first two lists.
 Prime-number-calculator_2 define a function that tells if a given number is a prime number. Then it creates a list of all prime numbers in a range of 2 to a maximum value that you input, defining with the function if each number is prime or not.
 Prime-number-calculator_3 iterates a list of primes numbers starting by 2, and divide any numbers by this list. It also uses the time function to have an estimation of how quick the program is.
 
-### 6. Random assignment generator
+### 7. Random assignment generator
 [This](https://github.com/irinade/Projet_Bio) program randomly assigns peoples names, from the #students list in the #students_list.py file, to a number (here 12, but this is just for the example). This number corresponds to an exercise that I have in my Biology class. So this program randomly assigns an exercise to my classmates.
