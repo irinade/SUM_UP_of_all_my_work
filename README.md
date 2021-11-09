@@ -1,7 +1,7 @@
 # SUM UP of my work and experiences
 Here you will be able to find a sum up of all my work, grouped by internship reports, dissertation reviews, and computing experiencies.
 
-You can also find my CV [here](https://github.com/irinade/SUM_UP_of_all_my_work/blob/main/CV%20Irina%20Delamare%20English.pdf).
+You can also find my CV [here](https://github.com/irinade/SUM_UP_of_all_my_work/blob/main/CV%20Irina%20Delamare.pdf).
 
 
 ## Internship Reports:
