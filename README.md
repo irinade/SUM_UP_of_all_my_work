@@ -10,12 +10,18 @@ By following this [link](https://github.com/irinade/Internship_Report_L3_Underst
 Following this internship, I gave a talk at [SICB 2021](http://burkclients.com/sicb/meetings/2021/site/index.html) international conference cycle. You can find my talk [here]( https://www.youtube.com/watch?v=Pc85poM5rC0), (sorry for the quality).
 You can also have access to the weekly blog I kept during the internsip following [this](https://projects.cri-paris.org/projects/vXCBp29N/summary) link.
 
+During the summer break of 2021, I worked as a benevolant for 2 months to right a research paper on the work I started during my intership.
+
 Prior to this internship I worked 3 weeks with a peer on a project proposed by Pauline Provini, creating the foundations for my internship. You can find the work we did (programs, research and blogs) [here](https://github.com/irinade/Fellows_Project).
 
-### 2. Study of the cerebellum development in snakes, with Richard Wingate at Kings' College London
+### 2. S6 Internship : A PHYLOGENETIC AND ECOLOGICAL STUDY OF SONGBIRDS EVOLUTIONARY DIVERGENCE, with Benjamin Warren and Clothilde Biard 
+
+[Here](https://github.com/irinade/S6_Internship_on_Great_tits-) you will find the page associated with my 4 months internships on songbirds evolutionary divergence on both a phylogenetic and ecological point of view. 
+
+### 3. Study of the cerebellum development in snakes, with Richard Wingate at Kings' College London
 [Here](https://github.com/irinade/Intership-Report-at-King-s-College-London/blob/master/Internship%20Report%20Irina%20Delamare%20at%20KCL%20_%20Study%20of%20cerebellum%20development%20in%20snakes.pdf) you will find my report of the intership I made on summer 2019 at King's College London in the Developmental Neurobiology Department. My supervisor was Dr. Wingate. I studied snakes cerebellum, and their Purkinje cells ordering. I followed 3 different kinds of staining protocols : Nissl stain, Immunohistochemistry, and Golgi stain. 
 
-### 3. One week internship report, with Marc Eleaume at MNHN
+### 4. One week internship report, with Marc Eleaume at MNHN
 [Here](https://github.com/irinade/Internship-report-MNHN-2018/blob/master/Internship%20Report%20Irina%20Delamare%20Asteroids%20MNHN%202018.pdf) is an internship report I wrote for a voluntary internship in HighSchool. It was my first of 2 internship with him at the MNHN where I worked on taking pictures of echinodermes for the ATLAS CEAMARC Dr. Eleaume is working on.
 
 ## Dissertation Reviews:
