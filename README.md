@@ -50,7 +50,10 @@ It was made in collaboration with two classmates.
 
 
 ## Computing experiences:
-### 1. Molecular Dynamic
+### 0. Machine learning projects, python
+[Here](https://github.com/irinade/Machine_learning_work) are a two examples of AI projects I did for group projects. I had many more projects and experienced with a diversity of different models like knn classifiers, linear classification, decision tree, neural network, CNN, random forest, and more...
+
+### 1. Molecular Dynamic, python
 [This](https://github.com/irinade/Molecular-Dynamic-Project) project was part of a semester course that aim at creating a dynamic modele of particules. You will find here the final itteration of the program and the resulting files. The simulation spawn particules at random positions and generates energetic forces that drives them, leading to a complex and dynamic 3D model of particules evolution.
 During the same teaching unit, my class was [assigned](https://github.com/irinade/Stochastic-model) some exercises on stochastic model and DNA sequence manipulations in order to get back into the swing of things.
 
