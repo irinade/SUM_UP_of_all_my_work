@@ -3,6 +3,12 @@ Here you will be able to find a sum up of all my work, grouped by internship rep
 
 You can also find my CV [here](https://github.com/irinade/SUM_UP_of_all_my_work/blob/main/CV%20Irina%20Delamare.pdf).
 
+## Robotic experience:
+### 1. Zumo bot
+[Here](https://projects.cri-paris.org/projects/MV7w6CGO/summary) you can find a project to implement code for a sumo robot using Zumo. The idea was to have a robot that could push other robot out of the ring. You can find the code [here](https://github.com/irinade/Zumo_Robot).
+
+### 2. Car robot
+[Here](https://projects.cri-paris.org/projects/TgeaKsH0/summary) you can find the link to one of my first groupe project experience coding in C for robotic class. The assignment was to build a robot that could move forward for 1 meter, and than make a sqaure. You cand find [here](https://github.com/iyfyao/MarkerLab-Projects) the code.
 
 ## Internship Reports:
 ### 1. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI
