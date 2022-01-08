@@ -4,10 +4,13 @@ Here you will be able to find a sum up of all my work, grouped by internship rep
 You can also find my CV [here](https://github.com/irinade/SUM_UP_of_all_my_work/blob/main/CV%20Irina%20Delamare.pdf).
 
 ## Robotic experience:
-### 1. Zumo bot
+### 1. Ant Swarm BOTs
+[This](https://github.com/irinade/Ant_Swarm_BOTs) interdisciplinary project at the edge of swarm robotics, biomimetism, and odometry is trying to simulate the behavior of worker ants. You can find another link to the project [here](https://projects.cri-paris.org/projects/7qrxPKl2/summary).
+
+### 2. Zumo bot
 [Here](https://projects.cri-paris.org/projects/MV7w6CGO/summary) you can find a project to implement code for a sumo robot using Zumo. The idea was to have a robot that could push other robot out of the ring. You can find the code [here](https://github.com/irinade/Zumo_Robot).
 
-### 2. Car robot
+### 3. Car robot
 [Here](https://projects.cri-paris.org/projects/TgeaKsH0/summary) you can find the link to one of my first groupe project experience coding in C for robotic class. The assignment was to build a robot that could move forward for 1 meter, and than make a sqaure. You cand find [here](https://github.com/iyfyao/MarkerLab-Projects) the code.
 
 ## Internship Reports:
@@ -56,6 +59,10 @@ It was made in collaboration with two classmates.
 
 
 ## Computing experiences:
+### AI final project, python
+[Here](https://github.com/irinade/AI_final_project) you can find a group project on Toxic Comment Classification with machine learning.
+The project is to build a model capable of detecting the toxicity of a comment, assigning probabilities for different levels of toxicity. Our model is trained on a wikipedia dataset comprised of comments from Wikipedia's discussion pages.
+
 ### 0. Machine learning projects, python
 [Here](https://github.com/irinade/Machine_learning_work) are a two examples of AI projects I did for group projects. I had many more projects and experienced with a diversity of different models like knn classifiers, linear classification, decision tree, neural network, CNN, random forest, and more...
 
