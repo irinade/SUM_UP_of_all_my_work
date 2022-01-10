@@ -19,7 +19,7 @@ By following this [link](https://github.com/irinade/Internship_Report_L3_Underst
 Following this internship, I gave a talk at [SICB 2021](http://burkclients.com/sicb/meetings/2021/site/index.html) international conference cycle. You can find my talk [here]( https://www.youtube.com/watch?v=Pc85poM5rC0), (sorry for the quality).
 You can also have access to the weekly blog I kept during the internsip following [this](https://projects.cri-paris.org/projects/vXCBp29N/summary) link.
 
-During the summer break of 2021, I worked as a benevolant for 2 months to right a research paper on the work I started during my intership.
+During the summer break of 2021, I worked as a benevolent for 2 months to write a research paper on the work I started during my internship.
 
 Prior to this internship I worked 3 weeks with a peer on a project proposed by Pauline Provini, creating the foundations for my internship. You can find the work we did (programs, research and blogs) [here](https://github.com/irinade/Fellows_Project).
 
