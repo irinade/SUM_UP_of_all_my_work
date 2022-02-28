@@ -59,6 +59,10 @@ It was made in collaboration with two classmates.
 
 
 ## Computing experiences:
+
+### VR companion - World of Animus
+With a small team of 3 students, for our XR-VR cours, we decided to create small creatures in a VR environment that you could interact with. You can find the project [here](https://github.com/ProgrammerIsMe/world-of-Animus)!
+
 ### AI final project, python
 [Here](https://github.com/irinade/AI_final_project) you can find a group project on Toxic Comment Classification with machine learning.
 The project is to build a model capable of detecting the toxicity of a comment, assigning probabilities for different levels of toxicity. Our model is trained on a wikipedia dataset comprised of comments from Wikipedia's discussion pages.
