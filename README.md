@@ -1,36 +1,42 @@
-# SUM UP of my work and experiences
+**SUM UP of my work and experiences**
+
 Here you will be able to find a sum up of all my work, grouped by internship reports, dissertation reviews, and computing experiencies.
 
 You can also find my CV [here](https://github.com/irinade/SUM_UP_of_all_my_work/blob/main/CV%20Irina%20Delamare%20.pdf).
 
-- [Robotic experience:](#robotic-experience)
-    - [1. Ant Swarm BOTs](#1-ant-swarm-bots)
-    - [2. Zumo bot](#2-zumo-bot)
-    - [3. Car robot](#3-car-robot)
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
 - [Internship Reports:](#internship-reports)
-    - [1. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI](#1-understand-the-mechanisms-by-which-birds-are-producing-vocalizations-with-pauline-provini-at-cri)
-    - [2. S6 Internship : A PHYLOGENETIC AND ECOLOGICAL STUDY OF SONGBIRDS EVOLUTIONARY DIVERGENCE, with Benjamin Warren and Clothilde Biard](#2-s6-internship--a-phylogenetic-and-ecological-study-of-songbirds-evolutionary-divergence-with-benjamin-warren-and-clothilde-biard)
-    - [3. Study of the cerebellum development in snakes, with Richard Wingate at Kings' College London](#3-study-of-the-cerebellum-development-in-snakes-with-richard-wingate-at-kings-college-london)
-    - [4. One week internship report, with Marc Eleaume at MNHN](#4-one-week-internship-report-with-marc-eleaume-at-mnhn)
+    - [Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI 2020](#understand-the-mechanisms-by-which-birds-are-producing-vocalizations-with-pauline-provini-at-cri-2020)
+    - [S6 Internship : A PHYLOGENETIC AND ECOLOGICAL STUDY OF SONGBIRDS EVOLUTIONARY DIVERGENCE, with Benjamin Warren and Clothilde Biard 2021](#s6-internship--a-phylogenetic-and-ecological-study-of-songbirds-evolutionary-divergence-with-benjamin-warren-and-clothilde-biard-2021)
+    - [Study of the cerebellum development in snakes, with Richard Wingate at Kings' College London 2019](#study-of-the-cerebellum-development-in-snakes-with-richard-wingate-at-kings-college-london-2019)
+    - [One week internship report, with Marc Eleaume at MNHN](#one-week-internship-report-with-marc-eleaume-at-mnhn)
 - [Dissertation Reviews:](#dissertation-reviews)
-    - [1. Principles of animal forms and functions](#1-principles-of-animal-forms-and-functions)
-    - [2. A little guide to COVID-19](#2-a-little-guide-to-covid-19)
-    - [3. Aquathon: Water quality in Brest](#3-aquathon-water-quality-in-brest)
-    - [4. The unfulfilled promises of Transgenic Monkey](#4-the-unfulfilled-promises-of-transgenic-monkey)
-    - [5. Practical Work Thesis: Immunology and Genetics](#5-practical-work-thesis-immunology-and-genetics)
-    - [6. Interaction between visitors and animals in a zoo](#6-interaction-between-visitors-and-animals-in-a-zoo)
-    - [7. TPE de Premiere "Genèse de la Vie sur Terre"](#7-tpe-de-premiere-genèse-de-la-vie-sur-terre)
+    - [A little guide to COVID-19 2020](#a-little-guide-to-covid-19-2020)
+    - [Principles of animal forms and functions 2020](#principles-of-animal-forms-and-functions-2020)
+    - [The unfulfilled promises of Transgenic Monkey 2019](#the-unfulfilled-promises-of-transgenic-monkey-2019)
+    - [Aquathon: Water quality in Brest 2019](#aquathon-water-quality-in-brest-2019)
+    - [Practical Work Thesis: Immunology and Genetics 2019](#practical-work-thesis-immunology-and-genetics-2019)
+    - [Interaction between visitors and animals in a zoo 2019](#interaction-between-visitors-and-animals-in-a-zoo-2019)
+    - [TPE de Premiere "Genèse de la Vie sur Terre" 2017](#tpe-de-premiere-genèse-de-la-vie-sur-terre-2017)
 - [Computing experiences:](#computing-experiences)
     - [VR companion - World of Animus](#vr-companion---world-of-animus)
     - [AI final project, python](#ai-final-project-python)
-    - [0. Machine learning projects, python](#0-machine-learning-projects-python)
-    - [1. Molecular Dynamic, python](#1-molecular-dynamic-python)
-    - [2. Reanalizing data and learning about reproductibility, in R](#2-reanalizing-data-and-learning-about-reproductibility-in-r)
-    - [3. Impact of Bison reintroduction in Siberia, in Python](#3-impact-of-bison-reintroduction-in-siberia-in-python)
-    - [4. Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI, in R](#4-understand-the-mechanisms-by-which-birds-are-producing-vocalizations-with-pauline-provini-at-cri-in-r)
-    - [5. Rosalind exercises, in Python](#5-rosalind-exercises-in-python)
-    - [6. Prime number calculator, in Python](#6-prime-number-calculator-in-python)
-    - [7. Random assignment generator](#7-random-assignment-generator)
+    - [Machine learning projects, python](#machine-learning-projects-python)
+    - [Molecular Dynamic, python](#molecular-dynamic-python)
+    - [Reanalizing data and learning about reproductibility, in R](#reanalizing-data-and-learning-about-reproductibility-in-r)
+    - [Impact of Bison reintroduction in Siberia, in Python](#impact-of-bison-reintroduction-in-siberia-in-python)
+    - [Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI, in R](#understand-the-mechanisms-by-which-birds-are-producing-vocalizations-with-pauline-provini-at-cri-in-r)
+    - [Rosalind exercises, in Python](#rosalind-exercises-in-python)
+    - [Prime number calculator, in Python](#prime-number-calculator-in-python)
+    - [Random assignment generator](#random-assignment-generator)
+- [Robotic experience:](#robotic-experience)
+    - [Ant Swarm BOTs 2021](#ant-swarm-bots-2021)
+    - [Zumo bot 2021](#zumo-bot-2021)
+    - [Car robot 2021](#car-robot-2021)
+
+<!-- markdown-toc end -->
 
 ## Internship Reports:
 ### Understand the mechanisms by which birds are producing vocalizations, with Pauline Provini at CRI 2020
